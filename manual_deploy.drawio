@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T14:47:18.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="cMcK99UdnGts8YurbIfj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T15:14:52.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JgXway4Ey5gare_NLl3p" version="21.5.2" type="github">
   <diagram name="Page-1" id="Oh12haUS-0P2g4Y5k1XG">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L7o_J_CIeaqoIE181NFn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L7o_J_CIeaqoIE181NFn-1" target="L7o_J_CIeaqoIE181NFn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7o_J_CIeaqoIE181NFn-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="L7o_J_CIeaqoIE181NFn-2" value="Source Code on Github" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="93.75" y="290" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7o_J_CIeaqoIE181NFn-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="215" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="L7o_J_CIeaqoIE181NFn-5" value="Local Machine/VM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="275" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7o_J_CIeaqoIE181NFn-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="414" y="340" width="50" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
