@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T10:27:18.107Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xTDMuZOaUCv6AjbEYl34" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T10:32:05.999Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jcbCwD6MLesPiIJAiPzf" version="21.5.2" type="github">
   <diagram name="Page-1" id="znM8gPd4nr-B5Jry82K4">
     <mxGraphModel dx="7686" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BC36M6veNqZihQO0rV40-73" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" parent="BC36M6veNqZihQO0rV40-52" vertex="1">
-          <mxGeometry x="387" y="139" width="69" height="72" as="geometry" />
+          <mxGeometry x="368" y="139" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="NsxSfpwMTWUYGSY4X4gR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BC36M6veNqZihQO0rV40-52" source="NsxSfpwMTWUYGSY4X4gR-2" target="BC36M6veNqZihQO0rV40-65">
           <mxGeometry relative="1" as="geometry" />
@@ -74,13 +74,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NsxSfpwMTWUYGSY4X4gR-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58536;gradientColor=none;" vertex="1" parent="BC36M6veNqZihQO0rV40-52">
-          <mxGeometry x="388" y="421" width="69" height="72" as="geometry" />
+          <mxGeometry x="369" y="421" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="BC36M6veNqZihQO0rV40-72" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.router;fillColor=#F58534;gradientColor=none;" parent="BC36M6veNqZihQO0rV40-52" vertex="1">
-          <mxGeometry x="387" y="245" width="70" height="65" as="geometry" />
+          <mxGeometry x="368" y="245" width="70" height="65" as="geometry" />
         </mxCell>
         <mxCell id="NsxSfpwMTWUYGSY4X4gR-5" value="Route Table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BC36M6veNqZihQO0rV40-52">
-          <mxGeometry x="459" y="262.5" width="71" height="30" as="geometry" />
+          <mxGeometry x="443" y="262.5" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NsxSfpwMTWUYGSY4X4gR-7" value="Nat Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BC36M6veNqZihQO0rV40-52">
           <mxGeometry x="369" y="484" width="108.5" height="33" as="geometry" />
