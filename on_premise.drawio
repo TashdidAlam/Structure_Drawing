@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T05:02:04.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1q-3eCQyuWAZzENlrE6I" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T05:02:54.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ae_IKbrBIaXUKygfhN2V" version="21.6.1" type="github">
   <diagram name="Page-1" id="2q4YPqR6SDCzdkbkJhSU">
-    <mxGraphModel dx="8116" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8116" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,8 +61,8 @@
         <mxCell id="Dl-Ma3oMHARwjfBRive8-12" value="VM- 1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=PZS.uT0q8Rq6;" vertex="1" parent="1">
           <mxGeometry x="-5821" y="276" width="91" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Dl-Ma3oMHARwjfBRive8-13" value="Inside VM-1 (Ansible,Jenkins, Docker)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;fontStyle=1;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=z0S.VyMDvYpo;" vertex="1" parent="1">
-          <mxGeometry x="-5760" y="475" width="223" height="65" as="geometry" />
+        <mxCell id="Dl-Ma3oMHARwjfBRive8-13" value="VM-1 (Ansible,Jenkins, Docker)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;fontStyle=1;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=z0S.VyMDvYpo;" vertex="1" parent="1">
+          <mxGeometry x="-5771" y="474" width="223" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Dl-Ma3oMHARwjfBRive8-14" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/c1e099dd-e6ca-48bb-b745-3d01dbec6e6d/content;imageAspect=0;lucidId=u6S.5h0-Gnwb;" vertex="1" parent="1">
           <mxGeometry x="-4980" y="607" width="136" height="36" as="geometry" />
