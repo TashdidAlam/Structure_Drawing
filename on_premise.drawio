@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T04:48:21.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kJ0_yKLPXinB7HLu6KMf" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T04:48:50.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QkfteP7DXoBr8Ralh7Kj" version="21.6.1" type="github">
   <diagram name="Page-1" id="2q4YPqR6SDCzdkbkJhSU">
     <mxGraphModel dx="8116" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
         <mxCell id="Dl-Ma3oMHARwjfBRive8-30" value="Kubernetes Master VM" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;fontStyle=1;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=nmT.FwI06Pz1;" vertex="1" parent="1">
           <mxGeometry x="-5139" y="329" width="242" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Dl-Ma3oMHARwjfBRive8-31" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;lucidId=1nT.b-Emo-m5;" edge="1" parent="1" source="Dl-Ma3oMHARwjfBRive8-2" target="Dl-Ma3oMHARwjfBRive8-1">
+        <mxCell id="Dl-Ma3oMHARwjfBRive8-31" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=3.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=classic;endArrow=block;endFill=1;exitX=-0.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;lucidId=1nT.b-Emo-m5;startFill=1;" edge="1" parent="1" source="Dl-Ma3oMHARwjfBRive8-2" target="Dl-Ma3oMHARwjfBRive8-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-5256" y="576" />
