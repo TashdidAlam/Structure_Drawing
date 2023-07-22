@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T04:04:13.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="m-f0CP4dWEeSz8ZJFPKY" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T05:18:02.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fEGeIgOV99OioUioa2Vv" version="21.6.5" type="github">
   <diagram name="Page-1" id="Oh12haUS-0P2g4Y5k1XG">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IdnhgxLbtEOynlZ7JZ_J-5" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#FFF4C3;" parent="1" vertex="1">
-          <mxGeometry x="450" y="207.64" width="144.5" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="L7o_J_CIeaqoIE181NFn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L7o_J_CIeaqoIE181NFn-1" target="L7o_J_CIeaqoIE181NFn-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -53,14 +50,20 @@
         <mxCell id="EVjqb6hqpJj4IS2rLbfz-9" value="Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="475.5" y="292.64" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IdnhgxLbtEOynlZ7JZ_J-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/1*CIHazLUXhBCxiho2mE2glQ.png;" parent="1" vertex="1">
-          <mxGeometry x="460" y="215.36" width="51" height="45.76" as="geometry" />
+        <mxCell id="jmZjpLq9ARJQBFL0C9dB-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="207.64" width="144.5" height="87.36000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="IdnhgxLbtEOynlZ7JZ_J-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png;" parent="1" vertex="1">
-          <mxGeometry x="530" y="214.24" width="50" height="50" as="geometry" />
+        <mxCell id="IdnhgxLbtEOynlZ7JZ_J-5" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#FFF4C3;" parent="jmZjpLq9ARJQBFL0C9dB-1" vertex="1">
+          <mxGeometry width="144.5" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="IdnhgxLbtEOynlZ7JZ_J-6" value="&lt;b&gt;Springboot + Thymeleaf&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="452.25" y="265" width="140" height="30" as="geometry" />
+        <mxCell id="IdnhgxLbtEOynlZ7JZ_J-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/1*CIHazLUXhBCxiho2mE2glQ.png;" parent="jmZjpLq9ARJQBFL0C9dB-1" vertex="1">
+          <mxGeometry x="10" y="7.720000000000027" width="51" height="45.76" as="geometry" />
+        </mxCell>
+        <mxCell id="IdnhgxLbtEOynlZ7JZ_J-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png;" parent="jmZjpLq9ARJQBFL0C9dB-1" vertex="1">
+          <mxGeometry x="80" y="6.600000000000023" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IdnhgxLbtEOynlZ7JZ_J-6" value="&lt;b&gt;Springboot + Thymeleaf&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jmZjpLq9ARJQBFL0C9dB-1" vertex="1">
+          <mxGeometry x="2.25" y="57.360000000000014" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
